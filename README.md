@@ -4,7 +4,7 @@ The objective of this project was to perform sentiment analysis on the “Amazon
 # DataSet Used: 
 The “Amazon Fine Food Reviews” dataset was chosen for this project. This dataset is publicly available on Kaggle and contains text reviews of food products on Amazon, along with the rating (score) given by the reviewer. The dataset is well-suited for sentiment analysis as it provides real-world, user-generated text data along with a numerical indicator (the score) of the sentiment expressed in each review.
 
-Link: 
+Dataset Link: [https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews](url)
 
 # Model Architecture: Two different models were used for sentiment analysis in this project:
 
